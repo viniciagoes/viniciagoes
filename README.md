@@ -4,7 +4,7 @@
 
   This is my repository where you can find college and personal projects which share some of my knowledge and inspirations. I’m interested in back and front end development, machine learning (as part of my thesis in college), cyber security, and Linux projects.
   
-  I’m currently learning front-end development and machine learning and looking to work with them. Always open to contact at *vialvesgoes@gmail.com*
+  I’m currently learning front-end development and machine learning and looking to work with them. Always open to contact at *vinicius.al.goes@gmail.com*
 
 
 
